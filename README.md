@@ -15,7 +15,7 @@ usando inteligencia artificial, con validación humana antes de contactar al cli
 - `video_demo_final.mp4` — Video demo con las 5 corridas de test (trigger, procesamiento, HITL y resultado final)
 
 ## Base de datos (modo lectura)
-https://airtable.com/invite/l?inviteId=invLKVEamXERqdqPK&inviteToken=7807e6d0aacf12bc007d1e8954f3132c9ca4840400ee003d998c9e507f851db1&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+https://airtable.com/appqqUlHza8KFjVnb/shrLJCcgvenLvh132
 
 ## Arquitectura del flujo
 Trigger (Manual) → Registros de búsqueda (Airtable, Estado=Pendiente) → Validación de datos 
