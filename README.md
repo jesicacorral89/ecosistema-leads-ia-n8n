@@ -15,6 +15,7 @@ usando inteligencia artificial, con validación humana antes de contactar al cli
 - `video_demo_final.mp4` — Video demo con las 5 corridas de test (trigger, procesamiento, HITL y resultado final)
 
 ## Base de datos (modo lectura)
+https://airtable.com/appqqUlHza8KFjVnb/shrLJCcgvenLvh132
 ## Dashboard de control (KPIs y tasa de errores)
 https://airtable.com/appqqUlHza8KFjVnb/shrwfCMAoFDqr7ARK
 
